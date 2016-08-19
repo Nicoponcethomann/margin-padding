@@ -1,1 +1,17 @@
-/* Agrega aqui tu CSS */
+.caja-exterior1, .caja-exterior2{
+	width: 210px;
+	height: 250px;
+	border: 2px solid orange;
+	display: block;
+}
+
+.caja-exterior3{
+	width: 210px;
+	height: 270px;
+	border: 2px solid orange;
+	display: block;
+}
+
+.contenido1, .contenido2, .contenido3{
+	padding: 3px;
+}

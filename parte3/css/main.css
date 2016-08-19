@@ -1,1 +1,21 @@
-/* Agrega aqui tu CSS */
+p, h4{
+	padding: 1px 5px;
+}
+
+.caja-exterior1, .caja-exterior2{
+	width: 220px;
+	height: 250px;
+	border: 1px solid orange;
+	display: block;
+}
+
+.caja-exterior3{
+	width: 220px;
+	height: 270px;
+	border: 1px solid orange;
+	display: block;
+}
+
+.contenido1, .contenido2, .contenido3{
+	padding: 3px;
+}
