@@ -1,0 +1,15 @@
+p, h4{
+	padding: 1px 5px;
+}
+
+.caja-exterior1{
+	width: 220px;
+	height: 250px;
+	border: 2px solid orange;
+	display: block;
+}
+
+.contenido1{
+	padding: 3px;
+}
+
